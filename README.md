@@ -23,20 +23,23 @@ Este projeto foi desenvolvido como parte do meu aprendizado em análise de dados
 | Indicador |
 |-----------|
 | Total de Vendas |
-|Receita total gerada no período |
+| Receita total gerada no período |
 | Ticket Médio |
-|Valor médio por venda |
+| Valor médio por venda |
 | Quantidade Vendida | 
-|Total de itens/pedidos |
+| Total de itens/pedidos |
 | Clientes | 
-|Novos Clientes |
+| Novos Clientes |
 | Total Vendas por Faixa Etaria e Genero | 
-|Faixa Etaria e Genero |
+| Faixa Etaria e Genero |
 | Sazonalidade | 
-|Sazonalidade por Mês e Dias da Semana | 
+| Sazonalidade por Mês e Dias da Semana | 
 | Fidelidade | 
-|Membro e Não Membro |
-| Porcentagem de Cacau | 
+| Membro e Não Membro |
+| Porcentagem de Cacau |
+| Total Marcas |
+| Total Produto |
+| Entre Outros |
  
 ---
 
