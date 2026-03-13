@@ -21,14 +21,21 @@ Este projeto foi desenvolvido como parte do meu aprendizado em análise de dados
 ## 📈 KPIs Apresentados
 
 | Indicador |
-|-----------|-----------|
-| Total de Vendas | Receita total gerada no período |
-| Ticket Médio | Valor médio por venda |
-| Quantidade Vendida | Total de itens/pedidos |
-| Clientes | Novos Clientes |
-| Total Vendas por Faixa Etaria e Genero | Faixa Etaria e Genero |
-| Sazonalidade | Sazonalidade por Mês e Dias da Semana | 
-| Fidelidade | Membro e Não Membro |
+|-----------|
+| Total de Vendas |
+|Receita total gerada no período |
+| Ticket Médio |
+|Valor médio por venda |
+| Quantidade Vendida | 
+|Total de itens/pedidos |
+| Clientes | 
+|Novos Clientes |
+| Total Vendas por Faixa Etaria e Genero | 
+|Faixa Etaria e Genero |
+| Sazonalidade | 
+|Sazonalidade por Mês e Dias da Semana | 
+| Fidelidade | 
+|Membro e Não Membro |
 | Porcentagem de Cacau | 
  
 ---
