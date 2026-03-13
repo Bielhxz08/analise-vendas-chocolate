@@ -45,12 +45,12 @@ Este projeto foi desenvolvido como parte do meu aprendizado em análise de dados
 
 ## 🖼️ Preview do Dashboard
 
-![Visão Geral]Imagens/Visão Geral.png
-![Clientes]Imagens/Clientes.png
-![Produtos]Imagens/Produtos.png
-![Lojas & Regiões]Imagens/Lojas & Regiões.png
-![Sazonalidade]Imagens/Sazonalidade.png
-![Fidelidade]Imagens/Fidelidade.png
+![Visão Geral]!Imagens/Visão Geral.png
+![Clientes]!Imagens/Clientes.png
+![Produtos]!Imagens/Produtos.png
+![Lojas & Regiões]!Imagens/Lojas & Regiões.png
+![Sazonalidade]!Imagens/Sazonalidade.png
+![Fidelidade]!Imagens/Fidelidade.png
 
 
 ---
@@ -81,7 +81,7 @@ Análise Vendas Chocolate/
 - **Power BI Desktop** — criação do dashboard
 - **Excel / CSV** — fonte de dados
 - **DAX** — criação de medidas e KPIs
-- **Python - Análise mais aprofundada
+- **Python** - Análise mais aprofundada
 
 ---
 
