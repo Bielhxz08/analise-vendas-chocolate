@@ -64,9 +64,13 @@ Análise Vendas Chocolate/
 ├── README.md                 ← Este arquivo
 │
 ├── dados/                    ← Fontes de dados utilizadas
-│   └── vendas.xlsx
+│   └── calendario.xlsx
+    └── clientes.xlsx
+    └── lojas.xlsx
+    └── produtos.xlsx
+    └── vendas.xlsx
 │
-└── imagens/                  ← Screenshots do dashboard
+└── imagens/                  ← Prints do Dashboards
     └── dashboard-principal.png
 ```
 
